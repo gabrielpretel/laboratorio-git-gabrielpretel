@@ -25,3 +25,9 @@
 8. He realizado un push con "git push -u origin development", para subir los cambios a la nueva rama.
 
 <hr>
+
+**Merge de las dos ramas**
+
+9. He cambiado a la rama master con "git checkout master" y las he mezclado con "git merge development -m 'texto'".
+
+10. He actualizado el archivo readme.md con los nuevos pasos, he realizado el commit de esto y el push para subir los cambios a remoto.
